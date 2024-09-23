@@ -1,5 +1,4 @@
-// open your browser developer console on roblox avatar
-// Paste and run the following script:
+
 
 (async () => {
   const userId = 1; // Replace with ur target user ID
@@ -11,7 +10,6 @@
   console.log("Avatar API Response:");
   console.log(JSON.stringify(data, null, 2));
   
-  // Check for potentially excessive data
   const sensitiveFields = [
     "bodyColors",
     "scales", 
