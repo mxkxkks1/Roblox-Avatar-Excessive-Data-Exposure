@@ -11,7 +11,7 @@ Gets and checks avatar data for a Roblox user, showing sensitive info.
 ## Setup
 
 1. Change `userId` to the target user ID
-2. Run in a JavaScript environment with fetch support
+2. Run in browser console (DevTools)
 
 ## Output
 
