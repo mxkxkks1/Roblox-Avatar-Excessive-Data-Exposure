@@ -11,7 +11,11 @@ Gets and checks avatar data for a Roblox user, showing sensitive info.
 ## Setup
 
 1. Change `userId` to the target user ID
-2. Run in browser console (DevTools)
+2. Open DevTools in your browser:
+   - **Windows/Linux**: Press `F12` or `Ctrl + Shift + I`
+   - **Mac**: Press `Command + Option + I`
+3. Go to the Console panel
+4. Paste and run the code
 
 ## Output
 
